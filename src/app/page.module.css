@@ -228,3 +228,8 @@
     transform: rotate(0deg);
   }
 }
+
+.footer {
+  color: white;
+  font-size: 0.75rem;
+}

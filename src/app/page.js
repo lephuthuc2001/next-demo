@@ -90,6 +90,7 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <footer>This demo is created by Thuc Le Phu.</footer>
     </main>
   );
 }
